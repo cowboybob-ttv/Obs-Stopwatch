@@ -84,8 +84,8 @@ from within the top dropdown in obs. Once in the scripts window click the "+" bu
 
 ## Tutorial
 https://www.youtube.com/embed/wRVHSuLSlwk?si=9whtLY_SNZueJxh7
-<a href="https://youtu.be/wRVHSuLSlwk">
-   <img src="https://img.youtube.com/vi/wRVHSuLSlwk/0.jpg" alt="youtube cover image" style="width:100%;>
+<a href="https://youtu.be/wRVHSuLSlwk?si=OSsuallE1TVmozQb">
+   <img src="https://img.youtube.com/vi/wRVHSuLSlwk?si=OSsuallE1TVmozQb/0.jpg" style="width:100%;>
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
