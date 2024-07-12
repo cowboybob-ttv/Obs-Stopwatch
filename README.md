@@ -64,10 +64,10 @@ Simple stop watch that user inputs a target stop time. User can setup custom hot
 This will help you to get the script up and running
 
 ### Prerequisites
-To use this script you will need obs studio installed: <a href="https://obsproject.com/download" target="_blank" rel="noreferrer noopener">Obs Studio Download</a>
+To use this script you will need obs studio installed: <a href="https://obsproject.com/download">Obs Studio Download</a>
 
 ### Installation
-Download the <a href="https://github.com/cowboybob-ttv/Obs-Stopwatch/blob/main/stopwatch.lua" target="_blank" rel="noreferrer noopener">stopwatch.lua script</a> and put in a directory where you keep all your obs scripts and/or files for your sources.
+Download the <a href="https://github.com/cowboybob-ttv/Obs-Stopwatch/blob/main/stopwatch.lua">stopwatch.lua script</a> and put in a directory where you keep all your obs scripts and/or files for your sources.
 
 <p align="right">(<a href="#Obs-Stopwatch">back to top</a>)</p>
 
@@ -82,7 +82,7 @@ To use this script you will need to goto
 from within the top dropdown in obs. Once in the scripts window click the "+" button and navigate to where you you put the downloaded stopwatch.lua file. From there you should see the description and some settings to the right. You will need to input how many seconds you would like the timer run for into the first input field named: Set Timer to Count Up To (seconds). Then you need to add a new Text(GDI+) text source and name it what you would like. You will now use the name you just gave to the text source and go back to the scripts window. Now input the name you gave the text source in the input field named Text Source Name. The buttons will start, pause, and reset the timer. You can also setup hotkeys from Settings/Hotkeys in obs. You then can use the filter input to search for Start/Pause Timer the click in the coresponding field and press the hotkey you'd like to use. You can do the same by searching for Reset Timer and input the hotkey to reset your timer. 
 
 ## Tutorial
-<a href="https://www.youtube.com/watch?v=wRVHSuLSlwk" target="_blank" rel="noreferrer noopener">
+<a href="https://www.youtube.com/watch?v=wRVHSuLSlwk">
    <img src="https://img.youtube.com/vi/wRVHSuLSlwk/0.jpg" style="width:50%;>
 </a>
 
