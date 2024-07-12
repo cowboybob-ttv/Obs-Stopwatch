@@ -83,9 +83,8 @@ To use this script you will need to goto
 from within the top dropdown in obs. Once in the scripts window click the "+" button and navigate to where you you put the downloaded stopwatch.lua file. From there you should see the description and some settings to the right. You will need to input how many seconds you would like the timer run for into the first input field named: Set Timer to Count Up To (seconds). Then you need to add a new Text(GDI+) text source and name it what you would like. You will now use the name you just gave to the text source and go back to the scripts window. Now input the name you gave the text source in the input field named Text Source Name. The buttons will start, pause, and reset the timer. You can also setup hotkeys from Settings/Hotkeys in obs. You then can use the filter input to search for Start/Pause Timer the click in the coresponding field and press the hotkey you'd like to use. You can do the same by searching for Reset Timer and input the hotkey to reset your timer. 
 
 ## Tutorial
-https://www.youtube.com/embed/wRVHSuLSlwk?si=9whtLY_SNZueJxh7
-<a href="https://youtu.be/wRVHSuLSlwk?si=OSsuallE1TVmozQb">
-   <img src="https://img.youtube.com/vi/wRVHSuLSlwk?si=OSsuallE1TVmozQb/0.jpg" style="width:100%;>
+<a href="https://www.youtube.com/watch?v=wRVHSuLSlwk">
+   <img src="https://img.youtube.com/vi/wRVHSuLSlwk/0.jpg" style="width:100%;>
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
