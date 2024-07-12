@@ -16,8 +16,8 @@ Simple stopwatch script to use in obs.
 
 
 <!-- PROJECT LOGO -->
-<h3 align="center">Obs Stopwatch</h3>
-<h2 align="center">Simple stopwatch script to use in obs.</h2>
+<h2 align="center">Obs Stopwatch</h2>
+<h3 align="center">Simple stopwatch script to use in obs.</h3>
 
   <p align="center">
     <br />
