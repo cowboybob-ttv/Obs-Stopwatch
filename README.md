@@ -14,7 +14,6 @@ Simple stopwatch script to use in obs.
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-## readme-top
 <!-- PROJECT LOGO -->
 <h2 align="center">Obs Stopwatch</h2>
 <h3 align="center">Simple stopwatch script to use in obs.</h3>
@@ -70,7 +69,7 @@ To use this script you will need obs studio installed: <a href="https://obsproje
 ### Installation
 Download the <a href="https://github.com/cowboybob-ttv/Obs-Stopwatch/blob/main/stopwatch.lua">stopwatch.lua script</a> and put in a directory where you keep all your obs scripts and/or files for your sources.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Obs-Stopwatch">back to top</a>)</p>
 
 
 
@@ -89,21 +88,21 @@ from within the top dropdown in obs. Once in the scripts window click the "+" bu
 
 <br>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Obs-Stopwatch">back to top</a>)</p>
 
 <!-- ISSUES -->
 # Issues
 
 See the [open issues](https://github.com/cowboybob-ttv/Obs-Stopwatch/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Obs-Stopwatch">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Obs-Stopwatch">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -111,7 +110,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Project Link: [https://github.com/cowboybob-ttv/Obs-Stopwatch](https://github.com/cowboybob-ttv/Obs-Stopwatch)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Obs-Stopwatch">back to top</a>)</p>
 
 
 
