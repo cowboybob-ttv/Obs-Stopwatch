@@ -17,20 +17,7 @@ Simple stopwatch script to use in obs.
 <!-- PROJECT LOGO -->
 <h2 align="center">Obs Stopwatch</h2>
 <h3 align="center">Simple stopwatch script to use in obs.</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://github.com/cowboybob-ttv/Obs-Stopwatch"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="#Tutorial">View Demo</a>
-    ·
-    <a href="https://github.com/cowboybob-ttv/Obs-Stopwatch/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/cowboybob-ttv/Obs-Stopwatch/issues">Request Feature</a>
-  </p>
-</div>
-
+  
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
